@@ -88,11 +88,11 @@ if password != (dapassword):
 #Admin
 #Mod
 #User
-if beta == ("False"):
-        print('Welcome to your HomeGuard command console by Vitanoxi')
+if beta == ("True"):
+        print('Welcome Beta Tester!')
         print('Please input your command')
 else:
-        print('Welcome Beta Tester!')
+        print('Welcome to your HomeGuard command console by Vitanoxi')
         print('Please input your command')
 command=input() 
 ####################################################USER COMMANDS#######################################################
@@ -140,7 +140,6 @@ while Loop == ("True"):
                  print('                                                                     ')
                  print('CEO/JrDev: Sabian Coomber-Nickerson                                  ')
                  print('Project Manager/Developer: Bryce Simpson                             ')
-                 print('Developer: Jack Heikel                                               ')
                  print('#####################################################################')
                  
         if command != ("opengui" or "help" or "egg" or "exit" or "info" or "alarm"):
