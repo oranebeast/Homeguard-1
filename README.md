@@ -29,3 +29,5 @@ http://img-9gag-lol.9cache.com/photo/aZWM059_460s.jpg
 =========
 http://img-9gag-lol.9cache.com/photo/a3dBEmr_460s_v1.jpg
 =========
+http://img-9gag-lol.9cache.com/photo/a8bjEje_460s.jpg
+=========
